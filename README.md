@@ -1,2 +1,2 @@
 # Calculator
-Dev - Agnik Ghosh
+Dev - Agnik
